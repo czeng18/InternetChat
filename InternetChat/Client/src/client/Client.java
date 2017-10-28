@@ -327,13 +327,4 @@ public class Client extends Thread {
     {
         sendMessageA(this.getName() + " has left the chat");
     }
-
-    public static void main(String[] args)
-    {
-        Client client      = new Client();
-        ClientUI w         = new ClientUI(client);
-        client.messageArea = w.messageArea;
-        client.textField   = w.textField;
-        client.start();
-    }
 }
