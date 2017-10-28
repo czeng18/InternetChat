@@ -6,10 +6,12 @@ and connect to the server to chat using the client part.
 ### Installation
 Java .jar files are included in the repository, which can run in most
 OS's.  It may be required to update Java on device, which can be updated
-through the [Java website] (https://java.com/en/).
+through the [Java website]
+(https://java.com/en/).
 This project was built in JetBrains' IntelliJ IDEA, so it can be run
 alternatively using the IDE.  The IDE can be installed through
-the [JetBrains Website] (https://www.jetbrains.com/idea/).
+the [JetBrains Website]
+(https://www.jetbrains.com/idea/).
 
 ## Usage
 The .jar files can run the programs by opening them.  In IntelliJ, the
