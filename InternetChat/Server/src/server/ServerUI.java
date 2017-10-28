@@ -216,9 +216,4 @@ public class ServerUI extends JFrame {
             s.dispose();
         }
     }
-
-    public static void main(String[] args)
-    {
-        new ServerUI();
-    }
 }
