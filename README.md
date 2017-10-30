@@ -14,7 +14,7 @@ the [JetBrains Website](https://www.jetbrains.com/idea/).
 ## Usage
 The .jar files can run the programs by opening them.  In IntelliJ, the
 two runner files are located in their respective modules, Client and
-Server, and are named ClientRuner and ServerRunner, respectively.
+Server, and are named ClientRunner and ServerRunner, respectively.
 
 ## Credits
 * **Caroline Zeng** - *Author*
