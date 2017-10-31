@@ -1,7 +1,8 @@
 # InternetChat
 This project includes both the server and client parts of an internet
 chat client.  The user can open a server for chat using the server part
-and connect to the server to chat using the client part.
+and connect to the server to chat using the client part. The packages
+for the Client and Server are located [here](https://github.com/czeng18/InternetChat_v2.0/tree/master/InternetChat_v2.0/Client/src/client) and [here](https://github.com/czeng18/InternetChat_v2.0/tree/master/InternetChat_v2.0/Server/src/server).
 
 ### Installation
 Java .jar files are included [here](https://github.com/czeng18/InternetChat_v2.0/tree/master/InternetChat_v2.0/out/artifacts) in the repository, which can run in most
